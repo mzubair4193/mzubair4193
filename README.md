@@ -12,11 +12,7 @@ Before joining App Academy, I worked as an insurance service representative, fin
 - 🔭 I’m currently working on adding features to a clone of Amazon (Amazonia)
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on creating full stack web application for blue collar businesses.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
 ## Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
@@ -30,8 +26,7 @@ Before joining App Academy, I worked as an insurance service representative, fin
 
 
 ## Thanks for stopping by!
-If you wanted more information about me heres a link to my [resume][1]
-[1]: https://docs.google.com/document/d/1gRw5rrvjT5uUdQZOy0kycEEgC_ewIrvo-8PZG4x3O9M/edit      "resume"
+If you wanted more information about me heres a link to my [resume](https://docs.google.com/document/d/1gRw5rrvjT5uUdQZOy0kycEEgC_ewIrvo-8PZG4x3O9M/edit)
 
 
 

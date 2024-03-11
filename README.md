@@ -30,8 +30,7 @@ Before joining App Academy, I worked as an insurance service representative, fin
 If you wanted more information about me heres a link to my [resume](https://docs.google.com/document/d/1gRw5rrvjT5uUdQZOy0kycEEgC_ewIrvo-8PZG4x3O9M/edit)
 
 
-
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mzubair4193&theme=onedark&border_radius=17.2&exclude_days=Sun" alt="GitHub Streak" /></a>
 
 
 
